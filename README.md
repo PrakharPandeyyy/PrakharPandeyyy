@@ -22,51 +22,12 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Tech Stack
-
-<table align="center">
-<tr><td align="top" width="33%">
-
-<h3 align="center">Frontend </h3>
-<div align="center">   
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
 
 
-
-<h3 align="center">Backend </h3>
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
- <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-768x348.png" alt="Express.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h3 align="center">Language </h3>
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td></tr></table>
-
-<br/>  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h2 align="left"> 💻 Tools:</h2>
+<h2 align="left"> 💻 Languages and Tools:</h2>
 
 <table align="center">
   <tr>
@@ -96,25 +57,25 @@
     </td>
      <td align="center" width="96">
       <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
       </a>
-      <br>Vue JS
+      <br>Node JS
     </td>
   </tr>
 
   <tr>
       <td align="center" width="96">
       <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="48" height="48" alt="LmongoDB" />
       </a>
-      <br>Laravel
+      <br>mongoDB
     </td>
     <td align="center" width="96">
         <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
+            <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" width="48" height="48"
+                alt="expressJS" />
         </a>
-        <br>Livewire
+        <br>expressJS
     </td>
       <td align="center" width="96">
       <a href="#laravel">
@@ -126,9 +87,9 @@
    <tr>
       <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://livecodestream.dev/post/publish-your-first-node-library-using-npm/featured_huf4ccd09dd756afcbac5f8896d9a60c65_19260_600x0_resize_q90_h2_lanczos.webp" width="48" height="48" alt="ubuntu" />
       </a>
-      <br>Ubuntu
+      <br>NPM
     </td>
       <td align="center" width="96">
       <a href="#git" >
@@ -168,7 +129,7 @@
 </div>  
 <br/>
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
+<img src="https://media.giphy.com/media/MC9O91MLGXz8H0Ns37/giphy.gif" style="height:190px"/>
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=PrakharPandeyyy&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
