@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" style="width:230px"/>
 </div>
 
-### <div align="center">INTRO</div>
+### <div align="center">Loves Competitive Coding as well as Development.</div>
 
 
 - ☯︎ Something Cool is Brewing.
