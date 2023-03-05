@@ -13,7 +13,7 @@
 - ☯︎ Something Cool is Brewing.
 
 
-- ⚔︎ I’m currently learning vue.JS
+- ⚔︎ I’m currently learning PHP.
 
 
 - ❓ You can Email Me Through [Here](mailto:8.prakharpandey@gmail.com)
