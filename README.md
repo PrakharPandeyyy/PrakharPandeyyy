@@ -83,6 +83,18 @@
       </a>
       <br>MySQL
     </td>
+    <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Pyhton
+    </td>
+    <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="Html5" />
+      </a>
+      <br>C++
+    </td>
   </tr>
    <tr>
       <td align="center" width="96">
