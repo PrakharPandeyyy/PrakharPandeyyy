@@ -56,7 +56,7 @@
       <br>Javascript
     </td>
      <td align="center" width="96">
-      <a href="#vuejs">
+      <a href="#nodejs">
         <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="48" height="48" alt="nodejs" />
       </a>
       <br>Node JS
@@ -99,7 +99,7 @@
    <tr>
       <td align="center" width="96">
       <a href="https://legacy.reactjs.org/logo-og.png" width="48" height="48" alt="React" />
-        <img src="https://legacy.reactjs.org/logo-og.png"  width="48" height="48" alt="React" >
+        <img src="https://legacy.reactjs.org/logo-og.png" style="mix-blend-mode: color-burn;" width="60" height="48" alt="React" >
       </a>
       <br>React
     </td>
