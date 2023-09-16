@@ -13,7 +13,7 @@
 - ☯︎ Something Cool is Brewing.
 
 
-- ⚔︎ I’m currently learning PHP.
+- ⚔︎ I’m currently learning Nestjs.
 
 
 - ❓ You can Email Me Through [Here](mailto:8.prakharpandey@gmail.com)
